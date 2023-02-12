@@ -7,6 +7,8 @@ Correo
  Alcides Jose Diaz Castellano
 alcdiazca@unal.edu.co
 
+Este repositorio es una copia traducida al español de : https://github.com/deepmind/alphafold.git
+
 
 
 
