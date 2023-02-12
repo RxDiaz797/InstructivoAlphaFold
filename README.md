@@ -17,7 +17,7 @@ AlphaFold es un sistema de predicción de plegamiento de proteínas basado en ap
 
 Instalación de repositorio desde CERO:
 
-
+**Si deseas ahorrarte la parte de la instalación, utiliza este notebook: https://colab.research.google.com/drive/1MD7T7L5zqy2aalLyox0VgMvShvCWFIHL?usp=sharing **
 Descargar el repositorio
 
 Entrar a google colad https://colab.research.google.com/?hl=es >> archivo (ubicado en la parte superior izquierda de la página web >> Subir Notebook
