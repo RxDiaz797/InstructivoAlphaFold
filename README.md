@@ -23,7 +23,7 @@ Descargar el repositorio
 Entrar a google colad https://colab.research.google.com/?hl=es >> archivo (ubicado en la parte superior izquierda de la página web >> Subir Notebook
 Del repositorio descargado de GitHub, subir el documento AlphaFold.ipynb ubicado en la carpeta “Notebooks”
 
-	A Continuación se importará como notebook en Google Colad
+	A Continuación se importará como notebook en Google Colab
 
 
 Una vez cargado el repositorio en Google Colad, se procede con la instalación de librerías y código dentro del mismo
